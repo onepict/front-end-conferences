@@ -1,257 +1,215 @@
-#Front-End Conferences
+# Front-End Conferences
 
 This is a list of upcoming front-end related conferences. If you know of any other ones that haven't been listed yet, **fork** this repository and create a new **pull request**.
 
-*The following content can also be found on [http://frontendfront.com/conferences](http://frontendfront.com/conferences).*
-
-##Asia
-
-[**JSConf.Asia**](http://2015.jsconf.asia/)  
-19-20 November, 2015  
-**Singapore**
+*The following content can also be found on [https://frontendfront.com/conferences](https://frontendfront.com/conferences).*
 
 
-##Australia
+## Australia
 
-[**Web Directions 2015**](http://www.webdirections.org/wd15/)  
-29-30 October, 2015  
-Sydney, **Australia**
+[**ComponentsConf**](https://www.componentsconf.com.au/)  
+6 September, 2019  
+Melbourne, **Australia**
 
-[**CampJS VI**](http://vi.campjs.com/)  
-20-23 November, 2015  
-Springbrook, **Australia**
+## Asia
 
+[**Frontend Conference Fukuoka 2018**](https://frontend-conf.fukuoka.jp/)  
+8 December 2018  
+Fukuoka, **Japan**
 
-##Europe
+## Europe
 
-[**AngularConnect**](http://angularconnect.com/)  
-20-21 October, 2015  
-London, **England**
+[**c't `<webdev>` 2019**](https://ctwebdev.de)  
+7-8 February 2019  
+Cologne, **Germany**
 
-[**SmashingConf Barcelona 2015**](http://www.smashingconf.com)  
-20-21 October, 2015  
-Barcelona, **Spain**
+[**FrontFest 2019**](https://frontfest.es)  
+9 February 2019  
+Madrid, **Spain**
 
-[**418:conf**](http://418conf.co.uk/)  
-22 October, 2015  
-Surrey, **England**
-
-[**push.conference**](http://push-conference.com/2015/)  
-23-24 October, 2015  
-Munich, **Germany**
-
-[**International PHP Conference 2015**](https://phpconference.com/2015/)  
-25-29 October, 2015  
-Munich, **Germany**
-
-[**WebTech Conference 2015**](https://webtechcon.de/2015/)  
-25-29 October, 2015  
-Munich, **Germany**
-
-[**FullStack 2015**](https://skillsmatter.com/conferences/6612-fullstack)  
-26-28 October, 2015  
-London, **England**
-
-[**Velocity**](http://velocityconf.com/devops-web-performance-eu-2015)  
-28-30 October, 2015  
+[**Frontend Developer Love**](http://www.frontenddeveloperlove.com/)  
+13 February 2019  
 Amsterdam, **The Netherlands**
 
-[**Smashing NightConf**](http://www.smashingconf.com)  
-31 October, 2015  
-Llanfairpwllgwyngyll, **Wales**
+[**Vuejs Amsterdam**](http://www.vuejs.amsterdam/)  
+14-15 February 2019  
+Amsterdam, **The Netherlands**
 
-[**Web Standards Days**](http://webstandardsdays.ru/2015/10/31/)  
-31 October - 1 November, 2015  
-Minsk, **Belarus**  
+[**Agent Conf**](https://www.agent.sh/)  
+21-24 February 2019  
+Dornbirn & Lech, **Austria**
 
-[**beyond tellerrand**](http://beyondtellerrand.com/)  
-2-4 November, 2015  
-Berlin, **Germany**
+[**JS Kongress 2019 - (r)evolution of Architectures**](https://js-kongress.com/)  
+11-12 March 2019  
+Munich, **Germany**
 
-[**Reactive Conference 2015**](https://reactive2015.com/)  
-2-4 November, 2015  
-Bratislava, **Slovakia**
-
-[**ffconf**](http://2015.ffconf.org/)  
-6 November, 2015  
-Brighton, **England**
-
-[**Kharkiv.js**](http://kharkivjs.org/)  
-7-8 November, 2015  
-Kharkiv, **Ukraine**
-
-[**HTML5 MasterClass 2015**](http://html5-master-class.de/2015/)  
-9-11 November, 2015  
-Leipzig, **Germany**
-
-[**HalfStack Conf**](http://halfstackconf.com/)  
-13 November, 2015  
-London, **England**
-
-[**KirovohradJS**](http://kirovohradjs.com/)  
-14 November, 2015  
-Kirovohrad, **Ukraine**
-
-[**dotCSS**](http://www.dotcss.io/)  
-4 December, 2015  
-Paris, **France**
-
-[**dotJS**](http://www.dotjs.io/)  
-7 December, 2015  
-Paris, **France**
-
-[**jDays 2016**](http://www.jdays.se/)  
-8-9 March, 2016  
-Gothenburg, **Sweden**
-
-[**SmashingConf Oxford 2016**](http://www.smashingconf.com/)  
-15-16 March, 2016  
-Oxford, **England**
-
-[**Future of Web Design London**](https://futureofwebdesign.com/london-2016/)  
-25-27 April, 2016  
-London, **England**
-
-[**Render Conf**](http://www.render-conf.com/)  
-20-21 April, 2016  
-Oxford, **England**
-
-[**CSSConf Budapest**](http://cssconfbp.rocks/)  
-11 May, 2016  
-Budapest, **Hungary**  
-
-[**Front-Trends 2016**](http://www.front-trends.com/)  
-18-20 May, 2016  
-Warsaw, **Poland**
-
-[**UpFront 2016**](http://upfrontconf.com/)  
-27 May, 2016  
+[**UpFront**](https://upfrontconf.com/)  
+22 March 2019  
 Manchester, **England**
 
-[**CSSconf Nordic**](http://cssconf.no/)  
-1 June, 2016  
-Oslo, **Norway**  
+[**Frontend NE: The Conference**](https://2019.frontendne.co.uk)  
+3 April 2019  
+Newcastle-Upon-Tyne, **England**
 
-[**ReactEurope 2016**](https://www.react-europe.org/)  
-2-3 June, 2016  
+[**FrontCon 2019**](https://frontcon.lv/)  
+3-5 April 2019  
+Riga, **Latvia**
+
+[**App.js Conf**](https://appjs.co/)  
+4-5 April 2019  
+Krakow, **Poland**
+
+[**Fronteers Spring Conference 2019**](https://tickets.fronteers.nl/)  
+5 April 2019  
+Amsterdam, **The Netherlands**
+
+[**JS Fest**](http://jsfest.com.ua/)  
+5-6 April 2019  
+Kiev, **Ukraine**
+
+[**Sencha Community Days**](http://sencha-community-days.com/)  
+10-11 April 2019  
+Karlsruhe, **Germany**
+
+[**JSHeroes**](https://jsheroes.io/)  
+11-12 April 2019  
+Cluj, **Romania**
+
+[**React Amsterdam**](https://react.amsterdam/)  
+12 April 2019  
+Amsterdam, **The Netherlands**
+
+[**Munich Frontend Conference FrontConf**](https://frontconf.com/)  
+27 April 2019  
+Munich, **Germany**
+
+[**IndieWebCamp Düsseldorf**](https://indieweb.org/2019/D%C3%BCsseldorf)  
+11-12 May 2019  
+Düsseldorf, **Germany**  
+
+[**beyond tellerrand // DÜSSELDORF**](https://beyondtellerrand.com/events/duesseldorf-2019)  
+13-15 May 2019  
+Düsseldorf, **Germany**  
+
+[**International JavaScript Conference**](https://javascript-conference.com/)  
+13-15 May 2019  
+London, **UK**
+
+[**You Gotta Love Frontend (YGLF)**](https://www.yougottalovefrontend.com)  
+16-17 May 2019  
+Vilnius, **Lithuania**  
+
+[**Frontend United**](https://www.frontendunited.org/)  
+17-18 May 2019  
+Utrecht, **The Netherlands**
+
+[**ReactEurope**](https://www.react-europe.org/)  
+23-24 May 2019  
 Paris, **France**
 
+[**Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
+25 May 2019  
+Barcelona, **Spain**
 
-##North America
+[**ngVikings**](https://ngvikings.org/)  
+27-28 May 2019  
+Copenhagen, **Denmark**
 
-[**CSS Dev Conf 2015**](http://2015.cssdevconf.com/)  
-October 26-28, 2015  
-Long Beach, California **USA**
+[**JSConf EU**](https://2019.jsconf.eu/)  
+1-2 June 2019  
+Berlin, **Germany**
 
-[**Future of Web Design San Francisco**](https://futureofwebdesign.com/san-francisco-2015/)  
-October 28-30, 2015  
-San Francisco, California **USA**
+[**Amsterdam JSNation**](https://amsterdamjs.com/)  
+6-7 June 2019  
+Amsterdam, **The Netherlands**
 
-[**An Event Apart San Francisco**](http://aneventapart.com/event/san-francisco-2015)  
-November 2-4, 2015  
-San Francisco, California **USA**
+[**React Next**](https://react-next.com)  
+11 June 2019  
+Tel Aviv, **Israel** 
 
-[**View Source**](https://viewsourceconf.org/)  
-November 2-4, 2015  
-Portland, Oregon **USA**
+[**React Day Norway**](https://reactnorway.com/)  
+11 June 2019  
+Larvik, **Norway** 
 
-[**Future of Web Design NYC**](https://futureofwebdesign.com/nyc-2015/)  
-November 2-4, 2015  
-New York City, New York **USA**
+[**enterJS 2019**](https://www.enterjs.de/)  
+25-28 June 2019  
+Darmstadt, **Germany**
 
-[**Thunder Plains Developer Conference**](http://thunderplainsconf.com/)  
-November 3, 2015  
-Oklahoma City, Oklahoma **USA**
+[**Vuejs Roadtrip Paris**](https://www.vuejsroadtrip.com/paris/)  
+29 June 2019  
+Paris, **France**
 
-[**SassConf**](http://sassconf.com/)  
-November 11-14, 2015  
-Austin, Texas **USA**
+[**CSSCamp Barcelona**](https://csscamp.tech)  
+17 July 2019  
+Barcelona, **Spain**
 
-[**NationJS**](http://nationjs.com/)  
-November 12-13, 2015  
-Silver Spring, Maryland **USA**
+[**JSCamp Barcelona**](https://jscamp.tech)  
+18-19 July 2019  
+Barcelona, **Spain**
 
-[**Nodevember**](http://nodevember.org/)  
-November 14-15, 2015  
-Nashville, Tennessee **USA**
+[**OdessaJS**](http://odessajs.org)  
+20-21 July 2019  
+Odessa, **Ukraine**
 
-[**FullStack Toronto**](http://fsto.co/)  
-November 14-15, 2015  
-Toronto, Ontario **Canada**
+[**Frontend Conference Zurich**](https://frontendconf.ch)  
+29-30 August 2019  
+Zürich, **Switzerland**
 
-[**CSS Day**](http://cssday.io/)  
-December 5, 2015  
-Phoenix, Arizona **USA**
+[**SmashingConf Freiburg 2019**](https://smashingconf.com/freiburg-2019/)  
+9-10 September 2019  
+Freiburg, **Germany**
 
-[**Node.js Interactive**](http://events.linuxfoundation.org/events/node-interactive)  
-December 8-9, 2015  
-Portland, Oregon **USA**
+[**CSSConf Budapest**](http://cssconfbp.rocks/)  
+25 September 2019  
+Budapest, **Hungary**
 
-[**UXDEVSUMMIT**](http://uxdsummit.com/)  
-February 4-6, 2016  
-Fort Lauderdale, Florida **USA**
+[**JSConf Budapest**](https://jsconfbp.com)  
+26-27 September 2019  
+Budapest, **Hungary**
 
-[**Forward 4 Web Technology Summit**](http://forwardjs.com/summit)  
-February 8-13, 2016  
-San Francisco, California **USA**
+[**Nordic.js**](http://nordicjs.com)  
+10-11 October 2019  
+Stockholm, **Sweden**
 
-[**DevNexus 2016**](http://devnexus.com)  
-February 15-17, 2016  
-Atlanta, Georgia **USA**
+[**beyond tellerrand // BERLIN**](https://beyondtellerrand.com/events/berlin-2019)  
+5-7 November 2019  
+Berlin, **Germany**  
 
-[**O'Reilly Fluent Conference 2016**](http://fluentconf.com)  
-March 8-10, 2016  
-San Francisco, California **USA**
+[**dotCSS 2019**](https://2019.dotcss.io/)  
+4 December 2019  
+Paris, **France**
 
-[**An Event Apart Nashville**](http://aneventapart.com/event/nashville-2016)  
-March 14-16, 2016  
-Nashville, Tennessee **USA**
+[**dotJS 2019**](https://2019.dotjs.io/)  
+5-6 December 2019  
+Paris, **France**
 
-[**An Event Apart Seattle**](http://aneventapart.com/event/sseattle-2016)  
-April 4-6, 2016  
-Seattle, Washington **USA**
+## North America
 
-[**SmashingConf San Francisco**](http://smashingconf.com)  
-April 5-6, 2016  
-San Francisco, California **USA**
+[**Covalence Electron Conference**](http://www.covalenceconf.com)  
+16 January 2019  
+San Francisco, **USA**
 
-[**Future Insights Live**](https://futureinsightslive.com/)  
-May 2-5, 2016  
-Chicago, Illinois **USA**
+[**ConFoo Montreal 2019**](https://confoo.ca/en/yul2019)  
+13-15 March 2019  
+Montreal, **Canada**
 
-[**An Event Apart Boston**](http://aneventapart.com/event/boston-2016)  
-May 16-18, 2016  
-Boston, Massachusetts **USA**
+[**EmberConf 2019**](https://emberconf.com/)  
+18-20 March 2019  
+Portland, **USA**
 
-[**QCon New York 2016**](https://qconnewyork.com/)  
-June 13-17, 2016  
-New York City, New York **USA**
+[**SmashingConf San Francisco 2019**](https://smashingconf.com)  
+16-17 April 2019  
+San Francisco, **USA**
 
-[**An Event Apart Washington D.C.**](http://aneventapart.com/event/washington-dc-2016)  
-July 25-27, 2016  
-Washington, D.C. **USA**
+[**SmashingConf Toronto 2019**](https://smashingconf.com/toronto-2019/)  
+25-26 June 2019  
+Toronto, **Cananda**
 
-[**An Event Apart Chicago**](http://aneventapart.com/event/chicago-2016)  
-August 29-31, 2016  
-Chicago, Illinois **USA**
+[**SmashingConf New York 2019**](https://smashingconf.com/ny-2019/)  
+15-16 October 2019  
+New York City, **USA**
 
-[**An Event Apart Orlando**](http://aneventapart.com/event/orlando-2016)  
-October 3-5, 2016  
-Orlando, Florida **USA**
-
-[**An Event Apart San Francisco**](http://aneventapart.com/event/san-francisco-2016)  
-October 31-November 2, 2016  
-San Francisco, California **USA**
-
-
-##South America
-
-[**Frontinsampa 2015**](http://www.frontinsampa.com.br/)  
-21 November, 2015  
-São Paulo, **Brazil**
-
-
-##Online
-
-[**Sass Summit**](https://sasssummit.com/)  
-November 18-19, 2015  
+## South America
+[**NodeConf Colombia 2019**](https://nodeconf.co/)  
+21-22 June 2019  
+Medellín, **Colombia**
